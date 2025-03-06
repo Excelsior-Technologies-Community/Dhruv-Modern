@@ -1,0 +1,97 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bellefair&family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap'); */
+
+.home-page{
+    background: url('../img/Mesh.png');
+    /* border: ; */
+    /* width: 100%; */
+    background-color: rgb(221, 216, 216);
+   /* padding: 150px 150px; */
+   text-decoration: none;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding-top: 150px;
+   /* justify-content: center;
+   align-items: center;
+   text-align: center; */
+}
+.tag{
+    font-size: 50px;
+    font-weight: 700;
+    /* font-style: bold;     */
+   
+}
+.end{
+font-weight: 1000;
+color: rgb(48, 159, 72);
+font-style: italic;
+font-family: Sigmar;
+/* font-family: ; */
+}
+.img-dash{
+    padding-top: 100px;
+    /* padding: 200px 200px; */
+    width: 100%; 
+    margin-bottom: -350px;
+    /* width: 50%; */
+}
+.desh-tag{
+    font-size: 50px;
+    font-weight: 200; 
+    color: aliceblue;
+    padding-top: 450px;
+}
+.desh-end{
+    font-weight: 500;
+color: rgb(48, 159, 72);
+font-style: italic;
+font-family: Sigmar;
+}
+.tag-desh{
+    font-size: 50px;
+    font-weight: 200; 
+    color: aliceblue;
+
+   
+}
+.end-desh{
+    font-weight: 500;
+    font-family: Sigmar;
+    color: rgb(48, 159, 72);
+    font-style: italic;
+}
+.logo-img{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.smart{
+    background-color: rgb(221, 216, 216);
+    padding-top: 100px;
+}
+.smart-tag{
+    font-size: 40px;
+    font-weight: 400; 
+    color: rgb(0, 0, 0);
+}
+.smart-end{
+    font-weight: 1000;
+    font-size: 50px;
+    font-family: Pacifico;
+    color: rgb(48, 159, 72);
+    font-style: italic;
+}
+.smart-data{
+    font-size: 20px;
+}
+.smart-learn{
+    background-color: white;
+    margin-left: 20px;
+    /* width: 50%; */
+}
+.smart-learn .p{
+    margin-top: 100px;
+}
+.mob-learn{
+    padding-top: 200px;
+    
+}
