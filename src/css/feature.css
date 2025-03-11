@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Bellefair&family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+.emp-expence{
+    /* background-color: aliceblue; */
+    background-image: url('../img/Mesh-Line.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    background-color: #f2f3f3;
+    
+    padding-top: 100px;
+}
+.btn-invest{
+    /* background-color: #FAFAFA; */
+}
+.ee{
+    font-family: playfair display;
+    color: #23C55E;
+
+}
+.text-headline{
+    /* color: #23C55E; */
+    font-size: 40px;
+
+}
+.img-learn{
+    margin-bottom: -250px;
+    padding: 50px;
+}
+.simple-expence{
+    padding-top: 270px;
+}
+.capabilities{
+    /* margin: 25px; */
+    padding: 20px;
+    background-color: rgb(45, 44, 43);
+}
+.contain-capabilities{
+    padding: 70px 100px 100px 100px;
+}
+.management{
+    padding: 300px 0px 0px 100px;
+}
+.approvels{
+    padding: 100px 100px;
+}
+.accordion-style-one{
+    padding: 150px 150px;
+    /* padding-top: 100px; */
+}
+.ard-data{
+    /* height: 50%; */
+    /* width: 100%; */
+}
+.acordian-style{
+    background-color: #f2f3f3;
+}
+.manage-ment{
+    background-color: #f2f3f3;
+
+}
+.manage-finance{
+    padding-top: 130px;
+    font-size: 30px;
+    /* padding-left: 0px; */
+}
+.trusted-user{
+    /* padding-top: 50px; */
+    padding-left: 120px;
+}
+.spends-data{
+    padding-bottom: 100px;
+    background-image: url('../img/Mesh-Line.png');
+
+    background-color: #f5f7f7;
+}
+.img-mob-4{
+    /* margin-left: -100px; */
+    /* height: 100%; */
+    width: 100%;
+    padding-top: 80px;
+    
+}

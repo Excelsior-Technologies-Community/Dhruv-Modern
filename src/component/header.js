@@ -5,36 +5,38 @@ import { Navbar, Container, Nav, Button } from "react-bootstrap";
 import "../css/header.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import logo from "../img/Logo.png";
+
 //import { Link } from "react-router-dom";
 
 function Header() {
-  const [scrolled, setScrolled] = useState(false);
+  // const [scrolled, setScrolled] = useState(false);
 
-  useEffect(() => {
-    const handleScroll = () => {
-      setScrolled(window.scrollY > 50);
-    };
+  // useEffect(() => {
+  //   const handleScroll = () => {
+  //     setScrolled(window.scrollY > 50);
+  //   };
 
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  //   window.addEventListener("scroll", handleScroll);
+  //   return () => window.removeEventListener("scroll", handleScroll);
+  // }, []);
 
   return (
     <>
       {/* Contact Info Section */}
      
 <div className="container">
-    <Navbar bg="white" expand="lg" className="py-2 border-bottom">
+<div className="background">
+    <Navbar  expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="./">
         <img src={logo} alt="Logo" />
           
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mx-auto">
-            <Nav.Link href="#home" className="mx-2">Home</Nav.Link>
-            <Nav.Link href="#about" className="mx-2">Feature</Nav.Link>
+            <Nav.Link href="./" className="mx-2">Home</Nav.Link>
+            <Nav.Link href="./feature" className="mx-2">Feature</Nav.Link>
              <Nav.Link href="#about" className="mx-2">Pricing</Nav.Link>
             <Nav.Link href="#contact" className="mx-2">Integration</Nav.Link>
           </Nav>
@@ -48,7 +50,7 @@ function Header() {
     </Navbar>
     </div>
 
-
+</div>
 
     
       </>

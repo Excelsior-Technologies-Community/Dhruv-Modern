@@ -1,0 +1,26 @@
+.img-mob-1 img {
+  width: 150%;
+  /* margin-left: 500px; */
+  height: 100%;
+  object-fit: contain;
+}
+.img-data{
+    /* padding-top: 100px; */
+    margin-top: 50px;
+}
+.issue{
+    /* padding-bottom: 200px; */
+    /* margin-bottom: -150px; */
+}
+.pricing{
+    margin-bottom: -250px;
+    /* background-color: #FFFFFF; */
+}
+.unlocks{
+    background-color: #B4B4B4;
+    /* background-color: ; */
+}
+.simple-step-modify{
+    padding-top: 300px;
+    text-align: center;
+}
