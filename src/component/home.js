@@ -191,7 +191,7 @@ function Home() {
                 </div>
               </div>
             </div>
-            <div className="col-md-5 pt-5">
+            <div className="col-md-5 pt-5 img-take">
               <img src={mob1} alt="" className="img-fluid" />
             </div>
           </div>
@@ -248,7 +248,7 @@ function Home() {
                 <img src={frame} alt="" className="img-fluid" />
               </div>
             </div>
-            <div className="pt-5">
+            <div className="pt-5 ">
               <div className="row bg-dark issue-unlock rounded-2">
                 <div className="col-md-6">
                   <p className="fs-2 text-white">
@@ -260,7 +260,7 @@ function Home() {
                     for itself — guaranteed.
                   </p>
                 </div>
-                <div className="col-md-6 text-end pt-4">
+                <div className="col-md-6 text-end  pt-4 unlock-btn">
                   <Button
                     variant="dark"
                     className="rounded px-2 bg-white text-success"

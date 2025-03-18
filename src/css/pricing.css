@@ -1,0 +1,38 @@
+
+.subscripction{
+    margin-bottom: -300px;
+}
+.shape-future{
+    background-color: black;
+    padding: 450px 0px 150px 0px;
+    font-size: 50px;
+}
+.acrd-data-style{
+    padding: 150px 0px 100px 0px;
+}
+
+@media (max-width: 1200px) {
+    .spends{
+        margin-top: 30px;
+      }
+  }
+  
+  @media (max-width: 992px) {
+    .spends{
+        margin-top: 40px;
+      }
+  }
+  
+  @media (max-width: 768px) {
+    .spends{
+        margin-top: 40px;
+      }
+  }
+  
+  @media (max-width: 576px) {
+    
+    .spends{
+      margin-top: 40px;
+    }
+    
+  }

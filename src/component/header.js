@@ -24,8 +24,9 @@ function Header() {
     <>
       {/* Contact Info Section */}
      
-<div className="container">
+
 <div className="background">
+<div className="container">
     <Navbar  expand="lg">
       <Container fluid>
         <Navbar.Brand href="./">
@@ -37,8 +38,10 @@ function Header() {
           <Nav className="mx-auto">
             <Nav.Link href="./" className="mx-2">Home</Nav.Link>
             <Nav.Link href="./feature" className="mx-2">Feature</Nav.Link>
-             <Nav.Link href="#about" className="mx-2">Pricing</Nav.Link>
-            <Nav.Link href="#contact" className="mx-2">Integration</Nav.Link>
+             <Nav.Link href="./pricing" className="mx-2">Pricing</Nav.Link>
+            <Nav.Link href="./intigration" className="mx-2">Integration</Nav.Link>
+            {/* <Nav.Link href="./about" className="mx-2"></Nav.Link> */}
+
           </Nav>
           <Nav>
             

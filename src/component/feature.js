@@ -51,7 +51,7 @@ function Feature() {
               </p>
             </div>
             <div className="img-learn">
-              <img src={learn} alt="" className="" />
+              <img src={learn} alt="" className="img-fluid" />
             </div>
           </div>
         </div>
@@ -156,7 +156,7 @@ function Feature() {
             <div className="col-md-6">
               <div>
                 {" "}
-                <img src={mobwallet} alt="" className="" />
+                <img src={mobwallet} alt="" className="img-fluid" />
               </div>
             </div>
           </div>

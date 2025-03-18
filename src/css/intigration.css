@@ -1,0 +1,20 @@
+.inti-tag {
+  background-color: #f2f3f3;
+  padding: 100px 0px 80px 0px;
+  background-image: url("../img/Mesh-Line.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0%;
+}
+.inti-product {
+  padding: 100px 0px 100px 0px;
+}
+.transform {
+  padding-bottom: 100px;
+  background-image: url("../img/Mesh-Line.png");
+
+  background-color: #f2f3f3;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0%;
+}
